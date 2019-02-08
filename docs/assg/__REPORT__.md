@@ -1,9 +1,10 @@
 ---
-title: 
+title:
 author:
 partner:
 date:
 ---
+
 
 In the report, complete the following.
 - Explain the objective of the problem.
@@ -47,5 +48,4 @@ all input combinations in the truth table above. Verify the circuit's output wit
 simulation. Provide the simulated waveform of the testbench.
 
 ## (5 pts)
-Determine whether the Boolean functions F = (a + b)’*a and G = a + b’ are equivalent, using: (a) algebraic manipulation, and (b) truth tables. 
-
+Determine whether the Boolean functions F = (a + b)’*a and G = a + b’ are equivalent, using: (a) algebraic manipulation, and (b) truth tables.
